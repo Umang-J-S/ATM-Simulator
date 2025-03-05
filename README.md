@@ -26,6 +26,7 @@ A **beginner-friendly** **ATM Simulator System** built using **Java Swing** for 
 ## 📸 Screenshots (Optional)
 _Add screenshots of your project here._
 ![image alt](https://github.com/Umang-J-S/ATM-Simulator/blob/b50ab61e17f0f361e737a2c4e4502e0786b3d47d/Screenshot%202025-03-05%20220214.png)
+![image alt](https://github.com/Umang-J-S/ATM-Simulator/blob/c8483e4cdf91afa4851a9ac1a9609695ef9f765d/Screenshot%202025-03-05%20220355.png)
 ---
 
 ## 📌 Installation & Setup
