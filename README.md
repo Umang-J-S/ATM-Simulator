@@ -19,13 +19,13 @@ A **beginner-friendly** **ATM Simulator System** built using **Java Swing** for 
 ## 🛠️ Technologies Used
 - **Java (Swing & JDBC)**
 - **MySQL (Database)**
-- **Visual Studio code** (Any IDE)
+- **Visual Studio code** 
 
 ---
 
 ## 📸 Screenshots (Optional)
 _Add screenshots of your project here._
-
+![image alt](https://github.com/Umang-J-S/ATM-Simulator/blob/b50ab61e17f0f361e737a2c4e4502e0786b3d47d/Screenshot%202025-03-05%20220214.png)
 ---
 
 ## 📌 Installation & Setup
